@@ -6,3 +6,13 @@
 A simple texture pack that turns the normal and deepslate diamond ore Block completely cyan. No other changes made. Perfect for much better visibility and compatible with all Minecraft versions.
 
 Recommended for players with red-green colorblindness (Protanopia & Deuteranopia) for maximum visibility and contrast.
+
+## Licensing
+
+This repository uses different licenses for different parts:
+
+- **CC0 1.0:** The original visual assets in `assets/` and `pack.png` are dedicated to the public domain under CC0 1.0.
+- **MIT:** `meta.json` and the workflow files in `.github/workflows/` are licensed under the MIT License.
+- `pack.mcmeta` and `README.md` are not covered by the licenses above unless explicitly stated otherwise.
+
+See [`LICENSE-CC0.txt`](LICENSE-CC0.txt) and [`LICENSE-MIT.txt`](LICENSE-MIT.txt) for the full license texts.
